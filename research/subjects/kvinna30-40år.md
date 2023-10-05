@@ -19,7 +19,7 @@ Hur ofta handlar hushållet?
 
 Vem i hushållet är det som handlar?
 
-50, 50 sämst fördelat
+50/50
 
 Har ni några återkommade basvaror ni handlar?
 
@@ -80,7 +80,7 @@ Kanske för 2 dagar, 1 gång i veckan.
 
 Portions-beräknar ni? (egna mått, livsmedelsverket, andra rekommendationer).
 
-Pasta är svårt, men potatis brukar bli lagom.
+Pasta är svårt, men potatis brukar bli lagom. eget mått.
 
 Temperatur i kylskåpet?
 
