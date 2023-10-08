@@ -1,5 +1,19 @@
 <!-- testing testing -->
 
+## 231008
+
+Sitter och går igenom materialet från första lektionen och kommer ge förslag till gruppen att backa 2 steg och att tillsammans svara på frågorna vi tog upop där (nu när kursen landat lite och man inte är ett enda stort frågetecken.)
+
+1; identifiera vad vi har för potentiella användare och hur vår målgrupp ser ut
+2; Välj userresearch-metoder
+3; Sätt en tidsplan.
+4; Rekrytera deltagare
+5; Förbered Datainsamling
+6; Genomförandet - här har vi gjort, och vi har även fått 2 till data att föra in i vårt arbete (kanske itne så mycket ny info utan mer tyngd åt undersökningen).
+
+Jag tänker framförallt punkt 1-3 och verkligen definiera våra tankar vi haft och våra varför!
+Att få detta på print för rapportens skull så vi verkligen får med alla aspekter.
+
 ## 232006
 
 Dagens funderingar:
