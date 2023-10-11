@@ -1,5 +1,18 @@
 <!-- testing testing -->
 
+## 231010
+
+lektiosndag men standup innan. Hur går vi vidare?
+Är det en lösning som ska fokas på- byggas personas därefter?
+eller radda det vi kommit fram till och bygga personas och därefter komma framt ill vår lösning?
+Handledning på eftermiddagen efter dagens praktiska figma-genomgång där vi undrade bla vad som är härnäst? När slutar man analysera?
+sagt och gjort, personas är näst iom att vi dragit lite slutsatser, vi är på define-etappen, här i ska vi utifrån vår research
+
+och som en påminnelse:
+TÄNK INTE FÄRDIG PRODUKT!
+vi gör detta för att skapa förutsättningarna för en tjänst/produkt med värde, och utifrån det vi får fram för data, det bygger vår tjänst/produkt!
+Så svårt att inte se en färdig produkt och jonbba mot det.
+
 ## 231008
 
 Sitter och går igenom materialet från första lektionen och kommer ge förslag till gruppen att backa 2 steg och att tillsammans svara på frågorna vi tog upop där (nu när kursen landat lite och man inte är ett enda stort frågetecken.)
