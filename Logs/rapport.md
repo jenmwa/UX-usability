@@ -36,6 +36,7 @@ I denna fas gör du research för att för få kunskap om vad dina användare g�
 
 <!-- Define-Definiera
 Denna fas handlar om att kombinera all din research och identifiera var dina användares problem finns. Du använder den data som samlats in i empatifasen för att få insikter. Du organiserar dina observationer och drar paralleller mellan dina olika användares upplevelser. Finns det en gemensam smärtpunkt för hos olika användare? Här identifierar du otillfredsställda användarbehov. -->
+<!-- ![EmpathyMapping](https://media.nngroup.com/media/editor/2017/12/14/screen-shot-2017-12-14-at-55525-pm.png) -->
 
 <!-- Ideate-Idégenerera I denna fas brainstormasen rad kreativa idéer som adresserar de otillfredsställda användarbehoven från definitionsfasen. Du ger dig själv och ditt team total frihet; ingen idé är för långsökt och kvantitet går före kvalitet.I den här fasen samlas dina teammedlemmar och skissar på många olika idéer som sedan delas, kombineras och, byggs vidare på. -->
 
@@ -44,8 +45,6 @@ I denna fas bygger vi verkliga representationer av några utvalda idéer. Målet
 
 <!-- Test -Testa
 I denna fas går du tillbaka till dina användare för feedback på din prototyp. Du ställer frågor som "Möter den här lösningen användarnas behov?" och "Har den förbättrat hur de känner, tänker eller utför sina uppgifter?”.  -->
-
-![EmpathyMapping](https://media.nngroup.com/media/editor/2017/12/14/screen-shot-2017-12-14-at-55525-pm.png)
 
 ---
 
@@ -175,28 +174,89 @@ Dokumenterade samtalet genom anteckningar på papper eller digitalt. Eftersom de
 
 ## Define-Definiera
 
-Fann gemensamma smärtpunkter
+//LÄGG IN BILD PÅ VÅR BOARD
+
+Fann gemensamma smärtpunkter:
 
 - Majoriteten storhandlar och kompletterings handlar.
 
-* Har man koll på allt man stoppar in i kylskåpet?
-* Varför handlar man en gång i veckan?
-* Potatis och pasta är det som kastas efter middagarna. Om det inte går ner med matlådan.
+Har man koll på allt man stoppar in i kylskåpet?
+Varför handlar man en gång i veckan?
+
+- Potatis och pasta är det som kastas efter middagarna. Om det inte går ner med matlådan.
 
 Är det för att det är billigare matvaror? Har man koll på vad en portion är? Hade man kunnat fylla ut med grönsaker för att minska denna typ av svinn?
 
-Det som glöms i kylen är det som är svinn. Det som blir dåligt och inte går att äta (färskvaror).
+- Det som glöms i kylen är det som är svinn. Det som blir dåligt och inte går att äta (färskvaror).
 
-Majoriteten räknar med att de ska få matlådor över när de tillagar middag till lunch dagen efter.
+- Majoriteten räknar med att de ska få matlådor över när de tillagar middag till lunch dagen efter.
 
-De flesta som tillfrågas hade handlat mer av säsongsvaror om det framgått tydligare i affären. (relevant? Ledande fråga?)
+- De flesta som tillfrågas hade handlat mer av säsongsvaror om det framgått tydligare i affären. (relevant? Ledande fråga?)
 
 De flesta handlar efter säsong och vet fördelarna med att handla dessa varor. Butikerna borde visa det tydligare för att nå fram till kunderna. Ev Säsongstorget med aktuella varor.
 
-Svinnpåse. Finns ett intresse. Men erfarenheter som många har är att det inte är varor som de anser vara för gamla för att kunna ätas.
+- Svinnpåse. Finns ett intresse. Men erfarenheter som många har är att det inte är varor som de anser vara för gamla för att kunna ätas.
 
 Hade man kunnat få ut maten innan den når denna fas? Mindre påsar?
 
-Kostnaden styr vad våra intervjupersoner handlar.
+- Kostnaden styr vad våra intervjupersoner handlar.
 
-//persona
+För att bättre förstå användarna och deras behov skapade vi personas baserade på våra insights från vår user reasearch.
+
+//istället för text, infoga GRAFISK PRESENTATION AV ANNA & MALIN (Göra en empathy map av ena?)
+
+```
+Namn: Malin
+Ålder: 32
+Sysselsättning: Sjukgymnast
+Familj: Sambo med 2 barn 3 + 5 år.
+Behov: Skulle behöva få bättre överblick på vad som finns hemma i kylskåpet
+för att slippa kasta mat. Såsom matrester, frukt och grönt som blir gammalt.
+Attityder: Lagar ofta mat så det blir över till matlådor men det händer att pasta, potatis och ris ofta slängs.
+Önskningar: Vill hålla ner sin matkostnader utan att kvaliten på maten påverkas.
+Begränsningar: Är medveten av att mat är dyrt och har begränsad tid i köket men vill ändå laga mat från grunden.
+Mål: Vill hålla nere sina matkostnader och ändå kunna hålla en bra nivå på sin kost. Unna sig på helgerna.
+Intresse: Går på friskis och svettis, gillar träning och att umgås med familjen.
+```
+
+```
+Namn: Anna
+Ålder:  40 år
+Sysselsättning: Förskolelärare
+Familj: Ensamstående med 1 barn 7 år
+Behov: Bra planering,  både spara tid och inte utrymme för att bunkra och kasta.
+Attityder:  Mat ska gå snabbt och enkelt, men väldigt medveten gällande matpriser. Jämför erbjudande från olika butiker och kollar jämförelsepriser.
+Önskningar: Vill hålla ner sin matkostnader och försöker handla medvetet inom sin budget.
+Begränsningar: varken tid eller de ekonomiska förutsättningarna bidrar till utsvävningar i köket, och inte laga flera rätter per dag. Det är ofta barnets matpreferenser som styr vad som ska ätas till middag.
+Mål: Vill inte kasta mat, men ändå äta sunt och varierat men inte till för stor kostnad.
+Intresse: Umgås med sin syster, gör middagar ihop och har barn i ungefär samma ålder.
+```
+
+SCENARIOS (Välj ut något och skissa upp?)
+
+```
+ANNA
+Scenario 1: Anna slutar arbeta kl 16 en Måndag, hon ska på vägen hem hämta barnet på skolan. Hon har planerat att familjen ska äta korv och pasta till middag. När hon satt sig i bilen blir hon osäker på om dom har nån gurka hemma. Då kan hon lätt titta i “PRODUKTEN” och se direkt vad hon har hemma och vad som eventuellt behöver handlas.
+
+Scenario 2: Anna har bestämt att hon hennes barn ska äta tacos en Fredag kväll. Dagen innan får hon en notis av “PRODUKTEN” att gurka och tomat har legat i kylskåpet över 5 dagar och borde användas upp. Anna läser notisen och märker då att både gurka och tomat håller på att bli gamla så dom passar på att äta dom på Torsdagen så hon slipper slänga dom. På fredagen vet hon att hon ska köpa ny gurka och tomat till kvällens middag.
+
+Scenario 3: Anna har varit och storhandlat och planerat måltider för veckan. När onsdagen kommer och de ska äta fiskpinnar, potatis och bladspenat, kommer Annas syster med barn på besök. Middagen kommer inte räcka så de gör något annat. BladSpenaten tas aldrig fram och några dagar senare  notis i “PRODUKTEN” som frågar om denna känsliga vara finns kvar.
+
+```
+
+```
+MALIN
+
+Scenario 1: Malin slutar arbeta kl 16 en Måndag, hon ska på vägen hem hämta barnen på förskola. Hon har planerat att familjen ska äta köttfärsås och spagetti till middag. När hon satt sig i bilen blir hon osäker på om dom har morötter hemma. Då kan hon lätt titta i “PRODUKTEN” och se direkt vad hon har hemma och vad som eventuellt behöver handlas.
+
+Scenario 2: När det ska storhandlas så kan Malin enkelt öppna “PRODUKTEN” på sin mobil och få en bra överblick på vad som behöver handlas.
+
+Scenario 3: En vecka efter att Malin har storhandlat och fyllt upp sin kyl med varor så får hon en notis av “PRODUKTEN” den informerar henne att hon har en påse baby spenat hon glömt bort att använda längst ner i kylskåpet.
+
+Scenario 4:  Vid middagen med pasta och köttbullar blir en halv portion pasta till övers. I “PRODUKTEN” skriver Malin in “kokt pasta” och 2 andra ingredienser de har till övers och får förslag på något enkelt hon kan göra för att få ihop en måltid mat.
+```
+
+//VISA IDESTORMNINGEN som adresserar de otillfredsställda användarbehöver från föregående fas och relationer/kombinationer
+// (Jag tänker Mind map typ)
+
+Utifrån våra användarbehov är det dessa som vi tycker ger mest värde för våra användare:
