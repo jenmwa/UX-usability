@@ -18,3 +18,20 @@
 - Robin och Therese känner att dom behöver träna mer figma för att få lite mer koll.
 - Skapa personas är roligt.
 - Att vår lösning är inte det viktigaste målet utan vår process.
+
+## AFTER-WORK-REMINDER-INFÖR-IMORN:
+
+torsdag todo:
+
+- STANDUP
+- VÄRDERA IDEER (sålla)
+- SKISSA wirefram
+- SITEMAP \_ FLOWCHART
+- STARTA med prototypen
+
+fredag todo:
+
+- STANDUP
+- LEKTION (eventuell handledning om vi stöter på utmaningar/korvstopp torsdag?)
+- BÖRJA FÖRBERED FÖR TESTER (5st? målgrupp. Förbereda, hur kan vi via distans få ett mer trygg testmiljö? )
+- fortsätta PROTOTYP!

@@ -16,7 +16,7 @@ men gruppövningen där vi var testledare/testare och observatör gav insikter!
 hur det gick med våra personas?
 2 personas , 1 antipersona, och därefter hade vi diskussioner om upplägget.
 Är det här vi ska välja 1 inriktning och ideate om denna, eller ideate utifrån alla insikter utefter personas och sen komma fram till vår produkt?
-Vi Idesprutade utefter våra personas och på riktigt tvingade oss att tänka utanför boxen!
+Vi idesprutade utefter våra personas och på riktigt tvingade oss att tänka utanför boxen!
 Så kul!
 
 och imorn ska vi alltså, sålla, vi ska börja ta beslut, vi ska börja skissa och vi ska börja prototypa!
