@@ -1,17 +1,42 @@
 <!-- testing testing -->
 
+## 231011
+
+standup, dagens lektionsmaterial och gruppträff!
+och dagens tema på lektionen: användbarhetstestning!
+Tankar om detta? Det är en hel del vi ska hinna på dessa veckor, lite stressigt just nu men som tidigare sagts: trust the process...
+men gruppövningen där vi var testledare/testare och observatör gav insikter!
+
+- var väl förberedd
+- ta tid och introducera testet för testaren, försöka få denna att inte känna sig så iakttagen (djur-i-bur minst sagt).
+- även om testledaren ska iaktta, mnåste vara alert och hjälpa testaren komma ihåg att prata, få i ord vad denne känner.
+- sen det här med distans. Det är svårt! att observera vad som sker på en skärm och hur en människa reagerar samtidigt? skärmen bli lite platt och det är väldigt tyst! förstår verkligen varför man vill boka tid med testaren, gärna nånstans där denne känner sig trygg och bekväm. För lets face it, situationen i sig är lite märklig, att bli iakttagen av 2-isch personer, att tänka högt och inte få svar/bekräftelse. men som allt annat gissar jag att man lär sig av erfarenhet?
+  Väldigt bra övning!
+
+hur det gick med våra personas?
+2 personas , 1 antipersona, och därefter hade vi diskussioner om upplägget.
+Är det här vi ska välja 1 inriktning och ideate om denna, eller ideate utifrån alla insikter utefter personas och sen komma fram till vår produkt?
+Vi Idesprutade utefter våra personas och på riktigt tvingade oss att tänka utanför boxen!
+Så kul!
+
+och imorn ska vi alltså, sålla, vi ska börja ta beslut, vi ska börja skissa och vi ska börja prototypa!
+
 ## 231010
 
-lektiosndag men standup innan. Hur går vi vidare?
+lektionsdag men standup innan. Hur går vi vidare?
 Är det en lösning som ska fokas på- byggas personas därefter?
 eller radda det vi kommit fram till och bygga personas och därefter komma framt ill vår lösning?
 Handledning på eftermiddagen efter dagens praktiska figma-genomgång där vi undrade bla vad som är härnäst? När slutar man analysera?
-sagt och gjort, personas är näst iom att vi dragit lite slutsatser, vi är på define-etappen, här i ska vi utifrån vår research
+sagt och gjort, personas är näst iom att vi dragit lite slutsatser, vi är på define-etappen, här i ska vi utifrån vår research.
 
 och som en påminnelse:
 TÄNK INTE FÄRDIG PRODUKT!
 vi gör detta för att skapa förutsättningarna för en tjänst/produkt med värde, och utifrån det vi får fram för data, det bygger vår tjänst/produkt!
 Så svårt att inte se en färdig produkt och jonbba mot det.
+
+## 231009
+
+Effektiv dag!
 
 ## 231008
 
@@ -22,7 +47,7 @@ Sitter och går igenom materialet från första lektionen och kommer ge förslag
 3; Sätt en tidsplan.
 4; Rekrytera deltagare
 5; Förbered Datainsamling
-6; Genomförandet - här har vi gjort, och vi har även fått 2 till data att föra in i vårt arbete (kanske itne så mycket ny info utan mer tyngd åt undersökningen).
+6; Genomförandet - här har vi gjort, och vi har även fått 2 till data att föra in i vårt arbete (kanske inte så mycket ny info utan mer tyngd åt undersökningen).
 
 Jag tänker framförallt punkt 1-3 och verkligen definiera våra tankar vi haft och våra varför!
 Att få detta på print för rapportens skull så vi verkligen får med alla aspekter.
