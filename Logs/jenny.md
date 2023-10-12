@@ -1,5 +1,53 @@
 <!-- testing testing -->
 
+## 231012
+
+Effektiv förmiddag med först sålla bland våra ideer och sen skapa FlowChart utifrån det.
+av alla ideer vi hade valde vi att värdera dem på: bortvalda ideer, mellanbra ideer och jättebra ideer utifrån våra personas behov.
+utifrån de vi valt som jättebra ideer byggde vi vidare och hamnade mer i att användarbehovet är mer att ha en enkel lösning för att dels inte handla mer än vad man egentligen behöver, och dels laga portioner, men framförallt spara tid.
+En tanke som nu slår mig: har vi gått för långt från vår kärna?
+
+MATSVINN. varför. user research. slutsatserna gällande [det som blir kvar är svinn, potatis & pasta är det som kastas, lagar medvetet matlådor, kostnaden styr, majoriteten storhandlar], våra personas behov: [bättre planering och bättre överblick], och utifrån detta:
+ideer detta: kombinera hellofresh-recept med Ica/coops egna recept/inköpslista-system.
+Löser detta användarbehovet?
+Är det vårt användarbehöv utifrån våra personas eller något vi utifrån gett dem?
+(minst sagt rörigt just nu).
+
+Gick igenom både Ica's och Coops app idag, och båda har superbra användningsområden på just detta, men de är lite bökiga att hitta? att använda? (OBS detta är utifrån mig).
+De har receptbank, matsvinns-info, säsongsvaror, de har inköpslistor. Icas vart mindre bar emd att om en vara blir dubbel från 2 recept, det läggs in dubbelt, men smidigt att få karta-funktion i sin app gällande VAR varorna fanns i butik.
+Coops funka så bra med att plussa på oliak recept, men lade man till en extra av något, försvann all volym och det stod bara varans namn.
+Skulle det hjälpa att få till detta för att minska matsvinn?
+Här skulle jag vilja iterera igen och göra ny userResearch gällande dessa appar. Vet folk om hur de kan användas? hur använder de dem? vad gillar de? vad gillar de inte? osv osv.
+
+Mer om dagen, sitemap utifrån personas och vår sållning av ideerna.
+Många sidor minst sagt.
+Veckoplaneraren - skapa matsedel, välja eller autogenerera. hitat recept, lägg in i lista, få en hel inköpslista kopplad till butiken.
+Vi kan släppa logiska, vad som fungerar idag, och bara göra right?
+
+Och efter detta FIGMA wireframe där det dels var eftermiddag och trötta skallar. Dels logiska luckor. Dels Olika egna forutfattninagr av vad en wireframe är.
+Jag känner mig lost, känner noll koll och på det stressad. tror det varit lite mycket sitta i långa-möten och mycket info på det, har inte kommit ut på lunchen alls denna vecka och jag kopplar liksom inte av.
+
+Vi skissade varsin variant av lite olika sidor, inte helt strukturerat, och jag tappa fokus här någonstans.
+Vi utvärderade inte och pratade inte om våra designer alls.
+Och sen hoppa på att göra i Figma och det blev som det blev - lite rörigt.
+
+Till imorn sa vi (jag) att vi kanske skulle ta ett happyflow, ett flöde att fokusera på, ta ut bara det som är viktigt per sida och utifrån detta få ihop vår wireframe, och därefter prototyp utifrån våra personas.
+
+```
+## AFTER-WORK-REMINDER-INFÖR-IMORN:
+
+- Vi måste tänka igenom vad som är viktigt på varje sida.
+- Gå igenom ett happy flow och börja där
+- bör få ihop en prototyp
+```
+
+Vi behöver även få personer att testa, typ se till att boka dem för test på måndag?
+
+Hoppas lite sömn och att andas blir nytändning till imorn.
+sånna här vrida-vända-kurser är inte bra för mig,
+hamnar i ett limbo av "vad kom först - hönan eller ägget" och behöver verkligen någon som skulle lyssna på det jag tänker och kan ställa de där frågorna som får mig att tänka vidare - inte bara ja/nej utan att verkligen gå ett steg till.
+Jag behöver struktur, jag behöver ha mer konkret vad som väntas av mig och jag behöver kunna bolla.
+
 ## 231011
 
 standup, dagens lektionsmaterial och gruppträff!
