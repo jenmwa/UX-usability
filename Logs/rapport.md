@@ -256,7 +256,53 @@ Scenario 3: En vecka efter att Malin har storhandlat och fyllt upp sin kyl med v
 Scenario 4:  Vid middagen med pasta och köttbullar blir en halv portion pasta till övers. I “PRODUKTEN” skriver Malin in “kokt pasta” och 2 andra ingredienser de har till övers och får förslag på något enkelt hon kan göra för att få ihop en måltid mat.
 ```
 
-//VISA IDESTORMNINGEN som adresserar de otillfredsställda användarbehöver från föregående fas och relationer/kombinationer
-// (Jag tänker Mind map typ)
+## Ideate-Idegenerera
 
-Utifrån våra användarbehov är det dessa som vi tycker ger mest värde för våra användare:
+Utifrån de otillfredsställda användarbehov som är definierades i föregående fas:
+
+//BILAGA SIST I DOKUMENTET IDESTORMNINGEN
+
+Här lät vi teamet idéstorma fritt utefter våra personas behov och ideer hur vi kan lösa dem.
+
+Om problemet med matsvinn är att användaren glömmer bort varor i kylen , hur kan vi hjälpa detta genom att användaren får koll på vad denna har hemma?
+Notis på mobilen som aktivers efter x antal dagar? specifikt smart-kylskåp som har koll på kylskåpets varor? En app som håller koll på hur det ska förvaras och hur länge varan brukar hålla? “Hey Siri, Hur många gurkor har jag hemma?”
+Hur motiverar vi användaren att göra detta? Någon typ av positiv feedback - egen vinning! (spara cash? premier?)? app likt stepler som ger premier från partners då man svindlar mindre? Varorna får en tidstämpel vid inköpstillfället? App håller koll? Registrera om något kastats? En app som håller koll på hur det ska förvaras och hur länge varan brukar hålla?
+
+Om det är potatis och pasta är det som kastas efter middagarna (de som inte hamnar i matlådorna) som är vårat svinnproblen? hur löser vi detta?
+strikta portionsberäkningar? Överbliven pasta/potatis-recept-tips? En app som portions beräknar / cheat cheet (tallriks modell)?
+Hämta recept via nyckelord?
+
+Eftersom kostnaden är en viktig del av vilka köpmönster våra intervjupersoner har, hur kan vi få optimera det vi handlar så att inget slängs?
+att laga mat som går åt mer portionsmässigt?
+Här kopplar vi även ihop att majoriteten tillagar middag och gör matlådor till dagen efter, hur kan vi kaoskomponera mera?
+
+Kan vi lösa vår användares problem genom att förenkla planering/beslut/handling?
+En middags planerare, en slags roulette där användaren lagrar måltider sedan bestämmer appen hur veckomatsedeln ska se ut?
+Skapa inköpslistor synkat med appen?
+frukost/lunch/middags-påsar för 2-4 personer - portionsbaserad?
+MIN VECKA - recept och inköp i denna flik, så man smidigt kan storhandla och bara få det som går åt?
+
+Utifrån våra personas användarbehov, och ledorden för att det ska vara enkelt, kostnadseffektivt och framförallt behovet av bättre planering är det dessa som vi tycker ger mest värde för våra användare:
+//VISA JÄTTEBRA-IDEER.
+
+Ledord:
+mobil-fokuserad
+
+- En app som portions beräknar / cheat cheet (tallriks modell)
+- MIN VECKA - recept och inköp i denna flik, så man smidigt kan storhandla
+- Kunna lägga in varor manuellt.
+- behöver inte vara bunden till scanning utan räcker med medlems kortet
+
+dessa ledde till slutsatser som:
+
+- Kunna markera sina favoriter
+- Hemkörning med det man har på veckolistan/ Hämta på plats/vHa med sin inköpslista och handla själv
+- Någon typ av utvärdering gällande förra veckan inför kommande
+
+//VISA FLOWCHART
+
+För att lösa de otillfredsställda användarbehov våra personas har gällande att få bättre planering, bättre koll på vad som finns i kylskåpet, kostnadseffektivt för att minska deras matsvinn i hushållen har vi PRODUKTEN där vår användare via befintlig ansluten butikskedja, kan komponera, samt generera sin veckomat-vecka utefter de befintliga recepten deras tjänster erbjuder. Recept sparas i kommande vecka, läggs ihop som en total där användaren har möjlighet att redigera volym och artiklar, beroende på vad som redan finns hemma, och därefter skicka order till butik.
+Genom att göra detta får vi tjänst som bygger vidare på tjänster som idag finns, men som utvecklar dem gentemot våra användares behov.
+
+//VISA SITEMAP
+// VISA PROTOTYP
