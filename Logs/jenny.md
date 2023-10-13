@@ -1,4 +1,17 @@
-<!-- testing testing -->
+## 231013
+
+vilken dag!
+jättebra att ses imorse och få prata om gårdagen, inte riktigt ok stämning vilket var upplevd av alla. Men bra med att få stanna upp, berätta och ta ett steg tillbaka för att samla oss och komma vidare.
+lektion innehållande ux-lagar och begreppet Designa en upplevelse, och påminnelse om att i reflektionerna utveckla och reflektera kring vad vi kunnat göra annorlunda eller annat.
+därefter sågs vi, gick snabbt igenom allt det bra gällande våra skisser (ta med det positiva!) och därefter en eftermiddag i Figma!
+komponenter till förbannelse men pusselbitarna finns och ska byggas ihop. Vi fick till både långscroll, sidoscroll, knapp-states och en å annan hover. Sjukt bra!
+Och en handledning, inget specifikt hjälp, utan mer vädra processen, att vi fastna, tänkte om, och lite hur det kan se ut på riktigt i jobbsammanhang. det är en matig kurs men förhoppningsvis kommer något landa när vi sedan får andas ut lite.
+
+Tar med mig bra känsla och att vi är på banan igen.
+tror kanske att luddigheten och frågetecknena tillsammans med att ingen i vår grupp är direkt nån som tar över och leder, utan ingen vill trampa någon på tårna. Men får erkännas, det har varit intensiva veckor, vi har suttit hela gruppen varje dag i timmar och det tar på krafterna.
+
+ska se om jag kan komplettera loggboken från i måndags, sen ta kvällen!
+Ev rapportskrivning i helgen (känner för det? ... eller ev starta en powerpoint.?) Borde även färska upp minnet i React och förbereda måndagens kodkurs för kidsen! Over n' out!
 
 ## 231012
 
@@ -31,7 +44,7 @@ Vi skissade varsin variant av lite olika sidor, inte helt strukturerat, och jag 
 Vi utvärderade inte och pratade inte om våra designer alls.
 Och sen hoppa på att göra i Figma och det blev som det blev - lite rörigt.
 
-Till imorn sa vi (jag) att vi kanske skulle ta ett happyflow, ett flöde att fokusera på, ta ut bara det som är viktigt per sida och utifrån detta få ihop vår wireframe, och därefter prototyp utifrån våra personas.
+Till imorn sa vi att vi kanske skulle ta ett happyflow, ett flöde att fokusera på, ta ut bara det som är viktigt per sida och utifrån detta få ihop vår wireframe, och därefter prototyp utifrån våra personas.
 
 ```
 ## AFTER-WORK-REMINDER-INFÖR-IMORN:
@@ -85,6 +98,20 @@ Så svårt att inte se en färdig produkt och jonbba mot det.
 ## 231009
 
 Effektiv dag!
+6 sidor skrivna tillsammans inför rapporten,. i princip hela vår definiera-fas finns på papper, vi har gått igenom:
+
+- 1; identifiera vad vi har för potentiella användare och hur vår målgrupp ser ut
+- 2; Välj userresearch-metoder
+- 3; Sätt en tidsplan.
+- 4; Rekrytera deltagare
+- 5; Förbered Datainsamling
+- 6; Genomförandet
+  hur vi tänkt, vad vi trott, utslag och lite steg-för-steg.
+  Mycket på print men så bra att få ner våran första hela vecka i ord!
+  Hrä undrar vi nu: hur går vi vidare? vad gör vi nu?
+  Ska vi ha ett problem på papper att lösa eller ska vi komma fram emd lösning utifrån våran research? eller? när kommer personas?
+  Vi vill så gärna spåna på lösningar, så det är lite klurigt det här med att sitta och komma fram till våra kriteriern inför ett projekt, istället för att få kriterier och göra ett projekt.
+  Definiera vårt problem, hitta våra ingångsvinklar.
 
 ## 231008
 
