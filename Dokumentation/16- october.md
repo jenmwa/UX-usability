@@ -25,7 +25,7 @@ Skriva ner flödet som ska testas. Kom-ihåg-punkter ska skrivas ihop inför tes
 - Ändra antal på dag 1 
 - Lägg till i inköpslistan
 - Gå till ditt konto och hitta tillbaka till start
-- Hjärt-markera första receptet i start.
+
 
 - Be testpersonerna att prata högt. Upprepa frågan om fråga ställs. 
 
