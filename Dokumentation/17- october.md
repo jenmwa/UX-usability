@@ -29,12 +29,19 @@ Robin: - Gjort ett test. Flödet fungerar som förväntat, ska göra 2 - 3 teste
 
 Idag:
 Föreläsning på förmiddagen.
-Gå igenom testerna vi gjort. Sammanställt rådatan.
 Ändra om casen i våra user personas.
-Se över wireframe?
-(Skriva ihop rapport.)
+
+Snygga till personas korten - Jenny
+Se över wireframe? Desktop - Robin kikar på det
+
+Robin Therese läsa igenom rapport, vad kan bantas ner läggas till?
+Bilder till rapport - Therese
+
+Onsdag:
 
 Imorgon sammanställ testerna ihop.
+Gå igenom testerna vi gjort. Sammanställt rådatan.
+Powerpoint - färger - typsnitt - bilder
 
 ## AFTER-WORK-REMINDER-INFÖR-231012:
 
