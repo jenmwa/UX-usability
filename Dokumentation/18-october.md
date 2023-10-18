@@ -16,6 +16,3 @@ Idag:
 - Sätt ordning för redovisning.
 - Se till att alla är med på indv. Kolla av. 
 - Tentan? Något som vi vill prata. 
-
-
-
